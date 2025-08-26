@@ -6,4 +6,4 @@ require (
 	github.com/gookit/color v1.5.4
 )
 
-module github.com/mod
+module github.com/Nubi3s/HTTP-STRESS
