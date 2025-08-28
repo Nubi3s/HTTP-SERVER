@@ -7,7 +7,7 @@ git clone https://github/com/Nubi3s/HTTP-STRESS
 go run httpClient.go
 ```
 
-# Usage tools
+# How to sent attack ⚔️
 ```python
 Nubi3s> attack <url> <time>s
 ```
