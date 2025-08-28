@@ -8,6 +8,7 @@ go run httpClient.go
 ```
 
 # How to sent attack ⚔️
+If the Nubi3s> prompt appears, type the command attack <url> <time>s
 ```python
 Nubi3s> attack <url> <time>s
 ```
