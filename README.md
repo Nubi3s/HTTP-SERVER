@@ -1,2 +1,11 @@
-# HTTP-SERVER
-http-stress is a tool to test the strength of a server to see whether it is vulnerable to http-stress requests or not.
+# Warning ⚠️
+This tool doesn't use proxies or anything similar. It's designed to test server performance, particularly on Layer 7 and Layer 4. If any issues arise, I, as the author, will not be held responsible!
+
+# Usage ⛏️
+```bash
+git clone https://github/com/Nubi3s/HTTP-STRESS
+go run httpClient.go
+```
+
+# PoC 🔥
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/877aa982-ff3a-4eb9-8b89-b5990ba52c88" />
